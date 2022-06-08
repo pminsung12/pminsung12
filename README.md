@@ -36,7 +36,6 @@
 <br/>
 
 ## 🏹 BOJ
-<div align="center">
 [![pminsung12's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pminsung12)](https://solved.ac/profile/pminsung12) 
 <br/>
 
