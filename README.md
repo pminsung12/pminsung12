@@ -37,14 +37,15 @@
 
 ## 🏹 BOJ
 <div align="center">
-  [![pminsung12's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tls1gy2rms3)](https://solved.ac/profile/pminsung12)  
+[![pminsung12's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pminsung12)](https://solved.ac/profile/pminsung12) 
+<br/>
 
 <br/>
   
 ## ⚡ My Github ⚡
-<p>
-[![Minseong's github stats](https://github-readme-stats.vercel.app/api?username=pminsung12&show_icons=true&title_color=6ab04c&text_color=6ab04c&icon_color=f9ca24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pminsung12&layout=compact&title_color=6ab04c&text_color=535c68)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Minseong's github stats](https://github-readme-stats.vercel.app/api?username=pminsung12&show_icons=true&title_color=6ab04c&text_color=6ab04c&icon_color=f9ca24)](https://github.com/pminsung12/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pminsung12&layout=compact&title_color=6ab04c&text_color=535c68)](https://github.com/pminsung12/github-readme-stats)
+
 <!-- <div align="right">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpminsung12&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
