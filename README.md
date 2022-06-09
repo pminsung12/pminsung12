@@ -14,7 +14,8 @@
 ## 👩🏻‍💻 About me
 - Sungkyunkwan Univ., Seoul, Korea (Computer Education / Software)
 - contact : pminsung12@gmail.com
-- blog : https://rainycode.tistory.com/   
+- instagram : [@min5ngg22](https://www.istagram.com/min5ngg22/)
+- blog : [rainyCode](https://rainycode.tistory.com/)  
 <br/>
 
   
