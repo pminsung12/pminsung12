@@ -30,7 +30,7 @@
 
 ### 공부 중
 - Typescript
-- NestJS
+- nestJS
 - Linux Shell 
 <br/>
 
