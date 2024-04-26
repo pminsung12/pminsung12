@@ -15,8 +15,8 @@
 - Sungkyunkwan Univ., Seoul, Korea (Computer Education / Software) 3학년 재학중
 - contact : pminsung12@gmail.com 
 - instagram : [@nnn5ngg](https://www.istagram.com/nnn5ngg/)
-- self hosting blog : [giant minsung](https://giant-minsung.tech)
-- 티스토리 blog : [rainycode](https://rainycode.tistory.com/)
+- 현: self hosting blog : [giant minsung](https://giant-minsung.tech)
+- 구: 티스토리 blog : [rainycode](https://rainycode.tistory.com/)
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 챌린지 수료 (23.07.10 ~ 23.08.08)
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 멤버십 수료 (23.08.28 ~ 23.12.15)
 <br/>
