@@ -45,7 +45,15 @@
 <!-- NCP (Naver Cloud Platform) Badge -->
 
 
-<br/>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/pminsung12"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 
 ## 🏹 BOJ
 [![pminsung12's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pminsung12)](https://solved.ac/profile/pminsung12) 
