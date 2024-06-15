@@ -18,7 +18,11 @@
 - 현: self hosting blog : [giant minsung](https://giant-minsung.tech)
 - 구: 티스토리 blog : [rainycode](https://rainycode.tistory.com/)
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 챌린지 수료 (23.07.10 ~ 23.08.08)
+  - 네이버 커넥트에서 주관하는 CS 및 JavaScript 몰입 과정 
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 멤버십 수료 (23.08.28 ~ 23.12.15)
+  - 네이버 커넥트에서 진행하는 풀스택 개발자 양성 교육 과정   
+- [디프만](https://www.depromeet.com/) (24.06.01 ~ ) IT 연합 동아리
+  - 디자이너와 개발자가 서비스 기획부터 런칭까지 함께 경험하는 성장추구형 커뮤니티
 <br/>
 
 ## 🛠 Tech Stack 🛠 
