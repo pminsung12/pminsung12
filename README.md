@@ -1,5 +1,5 @@
 ## 💻 Minseong Park
-- Sungkyunkwan Univ., Seoul, Korea (Computer Education) 3학년 재학중
+- Sungkyunkwan Univ., Seoul, Korea (Computer Education) 4학년 재학중
 - contact : pminsung12@gmail.com 
 - instagram : [@nnn5ngg](https://www.istagram.com/nnn5ngg/)
 - 현: self hosting blog : [giant minsung](https://giant-minsung.tech)
@@ -9,7 +9,7 @@
 |---------|------|
 | [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 챌린지 | 23.07.10 ~ 23.08.08 |
 | [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 멤버십 | 23.08.28 ~ 23.12.15 |
-| [디프만](https://www.depromeet.com/) IT 연합 동아리 | 24.06.01 ~ |
+| [디프만](https://www.depromeet.com/) IT 연합 동아리 | 24.06.01 ~ 24.09.14|
 <br/>
 
 ## 🛠 Tech Stack 🛠 
