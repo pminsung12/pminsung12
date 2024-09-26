@@ -2,8 +2,7 @@
 - Sungkyunkwan Univ., Seoul, Korea (Computer Education) 4학년 재학중
 - contact : pminsung12@gmail.com 
 - instagram : [@nnn5ngg](https://www.istagram.com/nnn5ngg/)
-- 현: self hosting blog : [giant minsung](https://giant-minsung.tech)
-- 구: 티스토리 blog : [rainycode](https://rainycode.tistory.com/)
+- blog : [rainycode](https://rainycode.tistory.com/)
 
 | 활동명 | 기간 |
 |---------|------|
